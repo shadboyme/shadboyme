@@ -1,4 +1,3 @@
-<center>
 <pre>
  _   _ _______   _________ ____  _   _ _____  ________      __
 | \ | |_   _\ \ / /__   __/ __ \| \ | |  __ \|  ____\ \    / /
@@ -7,9 +6,7 @@
 | |\  |_| |_ / . \   | | | |__| | |\  | |__| | |____   \  /
 |_| \_|_____/_/ \_\  |_|  \____/|_| \_|_____/|______|   \/
 
-
 </pre>
-</center>
 
 ![php](https://user-images.githubusercontent.com/83667327/168445215-8c4f50fb-0ab1-4e36-ad69-c40ad1eb85e1.svg)
 ![python](https://user-images.githubusercontent.com/83667327/152659843-ecee24e9-4f07-4d86-acf5-959844e8d9c5.svg)
