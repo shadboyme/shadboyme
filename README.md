@@ -13,7 +13,7 @@
 ![Codecss](https://badgen.net/badge/Code/css)
 
 <div algin="center">
-![nixtondev](https://github.com/nixtondev/nixtondev/assets/83667327/b9d7276d-ad89-4748-ad20-1efaad0b7297)
+<img src="https://icloudsecurity.github.io/img-Createdbyalexander/logo.jpg">
 </div>
 
 <p align="center">"Kod är poesi. Skapande är konst." – Nixton Cipher</p>
