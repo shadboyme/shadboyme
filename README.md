@@ -11,7 +11,7 @@
 ![CodeJavaScript](https://badgen.net/badge/Code/JavaScript)
 ![Codehtml](https://badgen.net/badge/Code/html)
 ![Codecss](https://badgen.net/badge/Code/css)
-<hr>
+<hr style="border-bottom: 1px dotted eee;">
 <div align="center">
 <img src="https://icloudsecurity.github.io/img-Createdbyalexander/logo.jpg">
 </div>
