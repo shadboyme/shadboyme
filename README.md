@@ -12,7 +12,7 @@
 ![Codehtml](https://badgen.net/badge/Code/html)
 ![Codecss](https://badgen.net/badge/Code/css)
 
-<div algin="center">
+<div style="text-align:center;">
 <img src="https://icloudsecurity.github.io/img-Createdbyalexander/logo.jpg">
 </div>
 
