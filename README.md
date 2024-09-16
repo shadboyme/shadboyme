@@ -12,8 +12,8 @@
 ![Codehtml](https://badgen.net/badge/Code/html)
 ![Codecss](https://badgen.net/badge/Code/css)
 
-<div style="text-align:center;">
-<img src="https://icloudsecurity.github.io/img-Createdbyalexander/logo.jpg" align="center">
+<div align="center">
+<img src="https://icloudsecurity.github.io/img-Createdbyalexander/logo.jpg">
 </div>
 
 <p align="center">"Kod är poesi. Skapande är konst." – Nixton Cipher</p>
