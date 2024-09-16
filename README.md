@@ -16,4 +16,4 @@
 <img src="https://icloudsecurity.github.io/img-Createdbyalexander/logo.jpg">
 </div>
 
-<p align="center">"Kod är poesi. Skapande är konst." – Nixton Cipher</p>
+<p align="center">"Kod är passion. Skapande är konst." – Nixton Cipher</p>
