@@ -4,7 +4,7 @@
 ![Notepad++](https://badgen.net/badge/Editor/Notepad++)
 ![nano](https://badgen.net/badge/Editor/Nano)
 
-<span style="font-family: monospace;">Do different projects in</span>
+- Do different projects in
 ![LinuxBash](https://badgen.net/badge/Linux/Bash)
 ![CodePython](https://badgen.net/badge/Code/Python)
 ![CodePHP](https://badgen.net/badge/Code/PHP)
