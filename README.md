@@ -1,6 +1,8 @@
-<span style="font-family: monospace;">Do different projects in</span>
+- My favorites of text editors
 ![Atom](https://badgen.net/badge/Editor/Atom)
 ![VisualStudioCode](https://badgen.net/badge/Editor/VisualSCode)
+
+<span style="font-family: monospace;">Do different projects in</span>
 ![LinuxBash](https://badgen.net/badge/Linux/Bash)
 ![CodePython](https://badgen.net/badge/Code/Python)
 ![CodePHP](https://badgen.net/badge/Code/PHP)
