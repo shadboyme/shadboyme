@@ -11,12 +11,17 @@
 
 <p align="center">Do different projects in</p>
 
+<div align="center">
+  
 ![LinuxBash](https://badgen.net/badge/Linux/Bash)
 ![CodePython](https://badgen.net/badge/Code/Python)
 ![CodePHP](https://badgen.net/badge/Code/PHP)
 ![CodeJavaScript](https://badgen.net/badge/Code/JavaScript)
 ![Codehtml](https://badgen.net/badge/Code/html)
 ![Codecss](https://badgen.net/badge/Code/css)
+
+</div>
+
 <hr>
 <p align="center">~$ Nixton Cipher</p>
 <div align="center">
