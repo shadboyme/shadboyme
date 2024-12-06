@@ -1,9 +1,13 @@
 <p align="center">My favorites of text editors</p>
 
+<div align="center">
+  
 ![Atom](https://badgen.net/badge/Editor/Atom)
 ![VisualStudioCode](https://badgen.net/badge/Editor/VisualSCode)
 ![Notepad++](https://badgen.net/badge/Editor/Notepad++)
 ![nano](https://badgen.net/badge/Editor/Nano)
+
+</div>
 
 <p align="center">Do different projects in</p>
 
