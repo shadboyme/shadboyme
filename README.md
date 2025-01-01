@@ -1,4 +1,4 @@
-<p align="center">My favorites of text editors</p>
+<p align="center"><strong>My favorites of text editors</strong></p>
 
 <div align="center">
   
@@ -9,7 +9,7 @@
 
 </div>
 
-<p align="center">Do different projects in</p>
+<p align="center"><strong>Do different projects in</strong></p>
 
 <div align="center">
   
