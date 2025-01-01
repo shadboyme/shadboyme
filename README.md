@@ -23,7 +23,7 @@
 </div>
 
 <hr>
-<p align="center">~$ Nixton Cipher</p>
+<p align="center"><b>My personal website</b>: nixton.dev</p>
 <div align="center">
 <img src="https://icloudsecurity.github.io/img-Createdbyalexander/logo.jpg">
 </div>
